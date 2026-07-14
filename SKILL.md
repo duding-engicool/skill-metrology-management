@@ -1,5 +1,7 @@
 ---
 name: metrology-management
+slug: metrology-management
+displayName: 计量管理
 version: 1.0.0
 description: 面向计量管理员与实验室主管的计量器具台账与校准周期管理技能，自动计算下次校准日期、三级超期预警，并生成 MD 管理台账（默认）；可按需导出 Word / Excel 版本
 ---
